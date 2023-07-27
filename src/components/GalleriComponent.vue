@@ -12,7 +12,7 @@
       </div>
       <div>
         <img class="h-auto max-w-full rounded-lg"
-          src="./sneakers2.avif" alt="" width="500" height="100">
+          src="./sneakers8.avif" alt="" width="500" height="100">
       </div>
       <div>
         <img class="h-auto max-w-full rounded-lg"
